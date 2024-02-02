@@ -1,0 +1,54 @@
+trading_platform:
+  backtesting:
+    - __init__.py
+    - strategy_tester.py
+    - data_manager.py
+  paper_trading:
+    - __init__.py
+    - simulator.py
+    - market_feed.py
+  algorithmic_trading:
+    - __init__.py
+    - strategy_framework.py
+    - trade_executor.py
+  technical_analysis:
+    - __init__.py
+    - indicators.py
+    - charting.py
+  neural_network:
+    - __init__.py
+    - model_builder.py
+    - predictor.py
+  risk_management:
+    - __init__.py
+    - risk_controller.py
+  ui:
+    - __init__.py
+    - main_window.py
+    - widgets:
+    - assets:
+  api_integration:
+    - __init__.py
+    - external_apis.py
+  security:
+    - __init__.py
+    - encryption_tool.py
+  analytics:
+    - __init__.py
+    - performance_analysis.py
+  mobile_compat:
+    - __init__.py
+    - mobile_adapter.py
+  compliance:
+    - __init__.py
+    - regulatory_tools.py
+  instance:
+    - __init__.py
+    - config.py
+  tests:
+  venv:
+  .env
+  .flaskenv
+  requirements.txt
+  run.py
+  README.md

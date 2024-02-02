@@ -1,0 +1,164 @@
+# General
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
+*.db
+*.sql
+*.sqlite
+*.tar.gz
+*.zip
+*.gz
+*.rar
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.tmp
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDEs and Editors
+/.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+/.vs/
+/.atom/
+/.history/
+/.c9/
+*.swp
+*~.nib
+*.nib
+*.tmbundle
+*.tmproj
+*.log
+*.sass-cache
+*.codekit-cache/
+*.codekit3.cache/
+*.codio
+*.class
+*.suo
+*.ipr
+*.user
+*.userprefs
+*.usertasks
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.workspace
+*.settings/
+*.patch
+*.bak
+
+# Node.js
+node_modules/
+npm-debug.log*
+.yarn-cache/
+.yarn/
+.yarn-integrity
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ruby
+/.bundle/
+/.yardoc 
+/_yardoc/
+/doc/
+/rdoc/
+/.sass-cache/
+*.gem
+*.rbc
+/.config
+/coverage/
+/spec/tmp/
+**.orig
+rerun.txt
+pickle-email-*.html
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Virtual Machines
+*.vbox
+*.vbox-prev
+*.vmc
+*.vdi
+*.vhd
+*.vmdk
+*.vmx
+*.vmxf
+*.ova
+*.ovf
+*.qcow
+*.qcow2
+*.qed
+*.vagrant/
+*.vbox/
+*.vbox-prev/
+*.vmwarevm/
+*.vmx/
+*.vmxf/
+.vagrant/

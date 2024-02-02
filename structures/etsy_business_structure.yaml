@@ -1,0 +1,123 @@
+etsy_business:
+  digital_products:
+    artwork:
+      - Artwork_AbstractCollection_202403.zip
+      - Artwork_ModernLandscapes_202402.zip
+    ebooks:
+      - eBook_GuideToPhotography_202403.pdf
+      - eBook_ModernCookingRecipes_202402.pdf
+    music:
+      - Album_SummerVibes_202403.zip
+      - Single_BeachDay_202402.mp3
+    software:
+      - App_QuickEditPro_202403.zip
+      - Plugin_PhotoFiltersBundle_202402.zip
+  product_descriptions:
+    - Description_Artwork_Abstract_202403.docx
+    - Description_eBook_Photography_202403.docx
+    - Description_Software_EditApp_202403.docx
+  marketing:
+    social_media:
+      - Post_ArtworkLaunch_20240301.jpg
+      - Story_MusicRelease_20240228.mp4
+    email_campaigns:
+      - EmailBlast_NewProducts_March2024.html
+      - EmailBlast_DiscountOffer_April2024.html
+    promotional_materials:
+      - PromoGraphic_SpringSale_2024.png
+      - Banner_NewArrivals_March2024.eps
+  financials:
+    sales_reports:
+      - SalesReport_March2024.xlsx
+      - AnnualSales_2023.pdf
+    expense_tracking:
+      - Expenses_March2024.xlsx
+      - TaxDocuments_2023.pdf
+  customer_support:
+    inquiry_responses:
+      - Response_LicenseIssue_20240301.docx
+      - Response_PaymentProblem_20240302.docx
+    feedback_analysis:
+      - CustomerFeedback_March2024.xlsx
+      - ProductReviewSummary_2024Q1.pdf
+  analytics:
+    website_traffic:
+      - TrafficReport_March2024.xlsx
+      - VisitorDemographics_2024Q1.pdf
+    product_performance:
+      - DownloadStats_ArtworkCollection_2024Q1.xlsx
+      - RevenueByProduct_2024Q1.xlsx
+  legal_and_compliance:
+    copyright_and_licenses:
+      - CopyrightInfo_ArtworkCollection_2024.docx
+      - LicenseAgreement_SoftwareApp_2024.pdf
+    terms_and_conditions:
+      - TnC_Update_2024_March.docx
+      - PrivacyPolicy_2024.pdf
+
+central_resources:
+  technology:
+    database:
+      central_db:
+        - login_manager.py
+        - database_config.json
+        - README.md
+      analytics_data_storage:
+        - data_importer.py
+        - analytics_config.json
+        - README.md
+      customer_data_management:
+        - customer_data_handler.py
+        - customer_db_config.json
+        - README.md
+  shared_software:
+    cross_business_app:
+      - app_executable
+      - app_config.json
+      - README.md
+    reporting_tool:
+      - report_generator.py
+      - reporting_tool_config.json
+      - README.md
+    data_visualization:
+      - visualization_tool.py
+      - visualization_config.json
+      - README.md
+  common_utilities:
+    backup_restore:
+      - backup_script.py
+      - restore_script.py
+      - backup_config.json
+    security_tools:
+      - encryption_tool.py
+      - vulnerability_scanner.py
+      - security_config.json
+    integration_framework:
+      - api_connector.py
+      - integration_config.json
+      - README.md
+other_central_resources:
+  legal_and_compliance:
+    legal_templates:
+      - contract_template.docx
+      - nda_template.docx
+      - license_agreement_template.docx
+    compliance_guidelines:
+      - data_protection_guide.pdf
+      - industry_compliance_checklist.pdf
+  hr_resources:
+    training_materials:
+      - leadership_training.ppt
+      - sales_training.pdf
+      - tech_skills_course
+    employee_management:
+      - employee_handbook.pdf
+      - performance_review_template.docx
+      - hr_policies.pdf
+business_strategy:
+  market_research:
+    - industry_trends_2024.pdf
+    - competitor_analysis_2024.xlsx
+  growth_plans:
+    - expansion_plan_2025.pdf
+    - innovation_strategy_2024.ppt

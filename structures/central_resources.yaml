@@ -1,0 +1,66 @@
+central_resources:
+  technology:
+    database:
+      central_db:
+        - login_manager.py
+        - database_config.json
+        - README.md
+      analytics_data_storage:
+        - data_importer.py
+        - analytics_config.json
+        - README.md
+      customer_data_management:
+        - customer_data_handler.py
+        - customer_db_config.json
+        - README.md
+  shared_software:
+    cross_business_app:
+      app_executable:
+      - app_config.json
+      - README.md
+    reporting_tool:
+      - report_generator.py
+      - reporting_tool_config.json
+      - README.md
+    data_visualization:
+      - visualization_tool.py
+      - visualization_config.json
+      - README.md
+  common_utilities:
+    backup_restore:
+      - backup_script.py
+      - restore_script.py
+      - backup_config.json
+    security_tools:
+      - encryption_tool.py
+      - vulnerability_scanner.py
+      - security_config.json
+    integration_framework:
+      - api_connector.py
+      - integration_config.json
+      - README.md
+other_central_resources:
+  legal_and_compliance:
+    legal_templates:
+      - contract_template.docx
+      - nda_template.docx
+      - license_agreement_template.docx
+    compliance_guidelines:
+      - data_protection_guide.pdf
+      - industry_compliance_checklist.pdf
+  hr_resources:
+    training_materials:
+      - leadership_training.ppt
+      - sales_training.pdf
+      - tech_skills_course: []
+    employee_management:
+      - employee_handbook.pdf
+      - performance_review_template.docx
+      - hr_policies.pdf
+business_strategy:
+  market_research:
+    - industry_trends_2024.pdf
+    - competitor_analysis_2024.xlsx
+  growth_plans:
+    - expansion_plan_2025.pdf
+    - innovation_strategy_2024.ppt

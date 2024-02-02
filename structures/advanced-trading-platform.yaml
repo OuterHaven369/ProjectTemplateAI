@@ -1,0 +1,49 @@
+advanced-trading-platform:
+  backtesting:
+    - data_loader.py
+    - strategy_tester.py
+    - performance_metrics.py
+  live_paper_trading:
+    - market_data_stream.py
+    - paper_trader.py
+    - trade_simulator.py
+  algorithmic_trading:
+    - strategy_framework.py
+    - trading_bot.py
+    - rule_engine.py
+  technical_analysis:
+    - indicators.py
+    - charting_tools.py
+    - pattern_recognition.py
+  neural_networks:
+    - model_builder.py
+    - data_preprocessing.py
+    - training_manager.py
+  risk_management:
+    - risk_calculator.py
+    - order_management.py
+    - risk_rules.py
+  user_interface:
+    - main_window.py
+    - dashboard.py
+    - settings.py
+  asset_management:
+    - asset_types.py
+    - asset_manager.py
+  api_integration:
+    - data_api.py
+    - news_feed.py
+  community_education:
+    - forum_integration.py
+    - educational_resources.py
+  security:
+    - encryption.py
+    - secure_storage.py
+  performance_analytics:
+    - analytics_engine.py
+    - report_generator.py
+  mobile_compatibility:
+    mobile_app:
+  regulatory_compliance:
+    - compliance_checker.py
+    - reporting_tools.py

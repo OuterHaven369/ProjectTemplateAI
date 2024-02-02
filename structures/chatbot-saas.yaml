@@ -1,0 +1,41 @@
+chatbot-saas:
+  api:
+    - __init__.py
+    - routes.py
+  chatbot:
+    - __init__.py
+    - models.py
+    - handlers.py
+    - utils.py
+  db:
+    - __init__.py
+    - models.py
+    - database.py
+  integrations:
+    - __init__.py
+    - crm.py
+    - ecommerce.py
+  templates:
+    - retail.json
+    - tech_support.json
+    - hospitality.json
+  web:
+    - __init__.py
+    - static:
+    - templates:
+    - views.py
+  config:
+    - __init__.py
+    - settings.py
+  tests:
+    - __init__.py
+    - test_api.py
+    - test_chatbot.py
+    - test_integrations.py
+  docs:
+    - setup.md
+    - user_guide.md
+    - api_reference.md
+  README.md
+  requirements.txt
+  main.py

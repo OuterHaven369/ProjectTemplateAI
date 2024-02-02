@@ -1,0 +1,23 @@
+chatgpt_local:
+  ai_store:
+    - __init__.py
+    - models.py
+    - capabilities.py
+    - task_manager.py
+    - sandbox_manager.py
+  app:
+    - __init__.py
+    - routes.py
+    - templates:
+    - static:
+  instance:
+    - __init__.py
+    - config.py
+  migrations:
+  tests:
+  venv:
+  .env
+  .flaskenv
+  requirements.txt
+  run.py
+  README.md
